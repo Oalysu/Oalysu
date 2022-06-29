@@ -27,4 +27,4 @@
  
 </div>
 
-  ![Snake animation](https://github.com/oalysu/oalysu/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Oalysu/Oalysu/blob/output/github-contribution-grid-snake.svg)
