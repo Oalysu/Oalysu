@@ -1,6 +1,6 @@
 ## Opa, me chamo Alyson Machado amante de tecnologia e games! / Hi my name is Alyson Machado I'm an enthusiastic of technology and games
 
-🔥 Desenvolvedor front-end júnior -- Junior front end developer<br><br>🔭  Procuro emprego como desenvolvedor -- Looking for a job as a developer<br><br>⚡ Curiosidade, es sou apaixonado pelos quadrinhos da DC -- Fun fact, I'm in love with DC comics<br><br>👨‍💻 
+🔥 Desenvolvedor front-end júnior -- Junior front end developer<br><br>🔭  Procuro emprego como desenvolvedor -- Looking for a job as a developer<br><br>⚡ Curiosidade, eu sou apaixonado pelos quadrinhos da DC -- Fun fact, I'm in love with DC comics<br><br>👨‍💻 
 Atualmente estou aprendendo ferramentas para desenvolvimento front-end -- I'm currently learning tools for front end development<br><br>
 
 <div align="center">
